@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+iot_warehouse.db
+*.joblib
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
